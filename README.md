@@ -21,9 +21,13 @@ Notes: fzf config snippets should be put after '''$(brew --prefix)/opt/fzf/insta
 ### z
 
 
-# Mac
+# Mac && zsh
 
 [mac beautify terminal](https://blog.biezhi.me/2018/11/build-a-beautiful-mac-terminal-environment.html)
 
 # Linux
 
+
+# Bonus
+
+Just use fish :)
