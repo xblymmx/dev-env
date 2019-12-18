@@ -1,7 +1,7 @@
 # My Person devlopment environment
 
 ## cli
-[cli tool artocle](https://www.vimfromscratch.com/articles/awesome-command-line-tools/)
+[cli tool article](https://www.vimfromscratch.com/articles/awesome-command-line-tools/)
 
 summary:
 - fzf
