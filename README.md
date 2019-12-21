@@ -1,33 +1,26 @@
 # My Person devlopment environment
 
-## cli
-[cli tool article](https://www.vimfromscratch.com/articles/awesome-command-line-tools/)
+## Terminal && Shell
 
-summary:
+- Mac: [iterm2 zsh](https://blog.biezhi.me/2018/11/build-a-beautiful-mac-terminal-environment.html)
+- Ubuntu todo
+- Arch todo
+
+## CLi tools
+- [featured](https://www.vimfromscratch.com/articles/awesome-command-line-tools/)
+- [collections](https://github.com/agarrharr/awesome-cli-apps#git)
+
+### summary:
 - fzf
 - z
-- ripgrep
+- ripgrep || ag
+- tldr(nodejs required for installation)
+
+#### fzf Notes 
+1. Setting fzf key bindings: [link](https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings)
+2. Fzf config snippets should be put after '''$(brew --prefix)/opt/fzf/install''
 
 
 
-### fzf 
-setting fzf key bindings: [link](https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings)
-
-Notes: fzf config snippets should be put after '''$(brew --prefix)/opt/fzf/install''
-
-
-### ag || ripgrep
-
-### z
-
-
-# Mac && zsh
-
-[mac beautify terminal](https://blog.biezhi.me/2018/11/build-a-beautiful-mac-terminal-environment.html)
-
-# Linux
-
-
-# Bonus
-
-Just use fish :)
+## Bonus
+fish with minimum manual configuration
